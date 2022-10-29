@@ -71,7 +71,7 @@ button {
   color: #ffff;
 }
 
-h1 {
+.hero-title {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.3636;
@@ -102,7 +102,7 @@ h1 {
 
 /* advatages*/
 
-h2 {
+.title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.1666;
@@ -112,10 +112,11 @@ h2 {
   visibility: hidden;
 }
 
-.advantage-review h3 {
+.advantage-point {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.1428;
+  text-transform: uppercase;
 }
 
 .advantage-review p {
@@ -130,7 +131,7 @@ h2 {
   background-color: #f5f4fa;
 }
 
-.team-review h3 {
+.team-names {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.1875;
@@ -202,7 +203,7 @@ h2 {
   background-color: #ffffff;
 }
 
-.portfolio-examples h3 {
+.project-title {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
